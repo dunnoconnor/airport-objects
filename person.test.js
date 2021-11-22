@@ -1,7 +1,6 @@
 const Person = require('./Person')
 //const Passenger = require('./passenger.js')
 const Bag = require('./Bag')
-const { test, expect } = require('@jest/globals')
 
 describe('Person', () => {
     const testPerson = new Person("Joe")
