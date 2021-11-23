@@ -11,5 +11,3 @@ class Passenger extends Person {
         console.log("Excuse me")
     }
 }
-
-console.log(Passenger.prototype instanceof Person)

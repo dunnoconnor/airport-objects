@@ -10,5 +10,4 @@ class Person {
 // let p1 = new Person("Sara")
 // console.log(p1 instanceof Person)
 
-
 module.exports = Person

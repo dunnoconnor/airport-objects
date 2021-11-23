@@ -1,5 +1,4 @@
 const Person = require('./Person')
-//const Passenger = require('./passenger.js')
 const Bag = require('./Bag')
 
 describe('Person', () => {
