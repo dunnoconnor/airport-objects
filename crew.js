@@ -8,4 +8,8 @@ class CrewMember extends Person {
     }
 }
 
+// c1 = new CrewMember("Bob","copilot",7)
+// console.log(c1 instanceof CrewMember)
+console.log(CrewMember.prototype instanceof Person)
+
 module.exports = CrewMember
